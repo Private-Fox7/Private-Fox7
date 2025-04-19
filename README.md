@@ -1,5 +1,5 @@
 👋 Hey there, I’m Madhavan from Bangalore, disguised under the name **@Private-Fox7** ,
-      You can call me _Mad_, _Maddy_ or even a _rookie_ (when it comes to Data Science) 
+      You can call me as _Mad_, _Maddy_ or even a _rookie_ (when it comes to Data Science) 
 
 
 👀 **I’m interested in:**
