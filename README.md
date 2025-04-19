@@ -14,7 +14,7 @@
 - Stock trading 📈
 - Investments 💸
 - Music 🎵 (singing away thoughts... )
-- Fun activities 🎉
+- Fun activities 🎉 & More...
   
 **🌱 I’m currently learning:**
 - Advanced Machine Learning algorithms 
